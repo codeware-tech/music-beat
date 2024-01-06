@@ -1,0 +1,44 @@
+{
+  "name": "@dropb/ffprobe",
+  "version": "1.5.0",
+  "description": "ffprobe wrapper",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "clean": "rimraf lib",
+    "build": "npm run lint && npm run clean && npm run build:ts ",
+    "test": "mocha",
+    "test:watch": "mocha --watch",
+    "prettier": "prettier --write \"**/*.{json,md,ts}\"",
+    "build:ts": "tsc",
+    "lint": "tslint -c tslint.json -p tsconfig.json",
+    "postversion": "npm run build && git push --follow-tags"
+  },
+  "author": "kukhariev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kukhariev/ffprobe.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "4.2.11",
+    "@types/ffprobe-static": "2.0.0",
+    "@types/mocha": "7.0.2",
+    "@types/node": "8.10.60",
+    "chai": "4.2.0",
+    "ffprobe-static": "3.0.0",
+    "mocha": "7.1.1",
+    "prettier": "2.0.4",
+    "rimraf": "3.0.2",
+    "ts-node": "8.8.2",
+    "tslint": "6.1.1",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.8.3"
+  }
+}
