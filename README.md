@@ -19,9 +19,10 @@ Visit Our Website: Go to https://music.digi-tech.live to access our online radio
 Listen Live: Enjoy high-quality, uninterrupted streaming of your favorite tunes.
 <br><br>
 <b>Connect With Us</b><br>
-Social Media: Follow us on Facebook, Twitter, and Instagram for updates, contests, and behind-the-scenes content.
-Feedback: We value your feedback! Share your thoughts, song requests, or suggestions via codeware@live.com.
-<br><br>
+<ul>
+<li><b>Social Media:</b>Follow us on Facebook, Twitter, and Instagram for updates, contests, and behind-the-scenes content.</li><br>
+<li><b>Feedback:</b> We value your feedback! Share your thoughts, song requests, or suggestions via codeware@live.com.</li>
+</ul>ul><br><br>
 <b>Support Us</b><br>
 Help us continue to bring you great music and content by supporting Music Beat. Consider making a donation or becoming a sponsor to contribute to the growth of our community.
 <br><br>
