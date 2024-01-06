@@ -7,10 +7,12 @@ Music Beat is an online radio station dedicated to bringing you the best in musi
 Tune in to Music Beat by visiting our website at https://music.digi-tech.live. Listen to high-quality music streams, engaging shows, and entertaining content from the comfort of your own device.
 
 <b>Features</b><br>
-<b>Diverse Music Selection: Enjoy a wide variety of genres, from the latest hits to timeless classics.
-<b>Live Shows: Tune in to our live shows hosted by talented and passionate DJs.
-<b>Podcasts and Interviews: Explore engaging podcasts and interviews featuring artists, industry experts, and more.
-<b>Interactive Requests: Connect with us and make song requests to personalize your listening experience.
+<ul>
+<li><b>Diverse Music Selection:</b> Enjoy a wide variety of genres, from the latest hits to timeless classics.</li>
+<li><b>Live Shows:</b> Tune in to our live shows hosted by talented and passionate DJs.</li>
+<li><b>Podcasts and Interviews:</b> Explore engaging podcasts and interviews featuring artists, industry experts, and more.</li>
+<li><b>Interactive Requests:</b> Connect with us and make song requests to personalize your listening experience.</li>
+</ul>
 <br>
 <b>Getting Started</b><br>
 Visit Our Website: Go to https://music.digi-tech.live to access our online radio station.
