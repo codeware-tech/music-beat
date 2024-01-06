@@ -17,12 +17,12 @@ Tune in to Music Beat by visiting our website at https://music.digi-tech.live. <
 <b>Getting Started</b><br>
 Visit Our Website: Go to https://music.digi-tech.live to access our online radio station.
 Listen Live: Enjoy high-quality, uninterrupted streaming of your favorite tunes.
-<br><br>
+<br>
 <b>Connect With Us</b><br>
 <ul>
 <li><b>Social Media:</b>Follow us on Facebook, Twitter, and Instagram for updates, contests, and behind-the-scenes content.</li>
 <li><b>Feedback:</b> We value your feedback! Share your thoughts, song requests, or suggestions via codeware@live.com.</li>
-</ul><br><br>
+</ul><br>
 <b>Support Us</b><br>
 Help us continue to bring you great music and content by supporting Music Beat. Consider making a donation or becoming a sponsor to contribute to the growth of our community.
 <br><br>
