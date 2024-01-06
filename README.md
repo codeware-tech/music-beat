@@ -30,6 +30,6 @@ Help us continue to bring you great music and content by supporting Music Beat. 
 Interested in collaborating with Music Beat? Contact us at partnerships@example.com to explore potential partnerships, sponsorships, or featured content opportunities.
 <br><br>
 <b>License</b><br>
-Music Beat content and branding are protected under the Creative Commons Attribution CC license.
+Music Beat content and branding are protected under the MIT license.
 <br><br>
 Thank you for being a part of Music Beat! Happy listening!
