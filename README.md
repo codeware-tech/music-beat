@@ -13,7 +13,7 @@ Tune in to Music Beat by visiting our website at https://music.digi-tech.live. L
 <li><b>Podcasts and Interviews:</b> Explore engaging podcasts and interviews featuring artists, industry experts, and more.</li>
 <li><b>Interactive Requests:</b> Connect with us and make song requests to personalize your listening experience.</li>
 </ul>
-<br><br>
+<br>
 <b>Getting Started</b><br>
 Visit Our Website: Go to https://music.digi-tech.live to access our online radio station.
 Listen Live: Enjoy high-quality, uninterrupted streaming of your favorite tunes.
@@ -30,5 +30,5 @@ Interested in collaborating with Music Beat? Contact us at partnerships@example.
 <br><br>
 <b>License</b><br>
 Music Beat content and branding are protected under the Creative Commons Attribution CC license.
-<br>
+<br><br>
 Thank you for being a part of Music Beat! Happy listening!
