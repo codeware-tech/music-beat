@@ -1,4 +1,4 @@
-Music Beat Online Radio Station
+<h1>Music Beat Online Radio Station</h1>
 Welcome to Music Beat
 About Us
 Music Beat is an online radio station dedicated to bringing you the best in music, entertainment, and more. We strive to create a unique and enjoyable listening experience for our audience.
